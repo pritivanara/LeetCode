@@ -7,6 +7,7 @@ My LeetCode problem-solving journey in Java. Organized by topics with clean and 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pritivanara/LeetCode/tree/master/0001-two-sum) |
+| [0832-flipping-an-image](https://github.com/pritivanara/LeetCode/tree/master/0832-flipping-an-image) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pritivanara/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/pritivanara/LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/pritivanara/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -21,6 +22,7 @@ My LeetCode problem-solving journey in Java. Organized by topics with clean and 
 ## Simulation
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/pritivanara/LeetCode/tree/master/0832-flipping-an-image) |
 | [1389-create-target-array-in-the-given-order](https://github.com/pritivanara/LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1920-build-array-from-permutation](https://github.com/pritivanara/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/pritivanara/LeetCode/tree/master/1929-concatenation-of-array) |
@@ -32,6 +34,7 @@ My LeetCode problem-solving journey in Java. Organized by topics with clean and 
 ## Matrix
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/pritivanara/LeetCode/tree/master/0832-flipping-an-image) |
 | [1672-richest-customer-wealth](https://github.com/pritivanara/LeetCode/tree/master/1672-richest-customer-wealth) |
 ## Hash Table
 |  |
@@ -61,4 +64,12 @@ My LeetCode problem-solving journey in Java. Organized by topics with clean and 
 | ------- |
 | [1773-count-items-matching-a-rule](https://github.com/pritivanara/LeetCode/tree/master/1773-count-items-matching-a-rule) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/pritivanara/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
+## Two Pointers
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/pritivanara/LeetCode/tree/master/0832-flipping-an-image) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/pritivanara/LeetCode/tree/master/0832-flipping-an-image) |
 <!---LeetCode Topics End-->
