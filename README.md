@@ -15,6 +15,7 @@ My LeetCode problem-solving journey in Java. Organized by topics with clean and 
 | [1512-number-of-good-pairs](https://github.com/pritivanara/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/pritivanara/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/pritivanara/LeetCode/tree/master/1732-find-the-highest-altitude) |
+| [1773-count-items-matching-a-rule](https://github.com/pritivanara/LeetCode/tree/master/1773-count-items-matching-a-rule) |
 | [1920-build-array-from-permutation](https://github.com/pritivanara/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/pritivanara/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Simulation
@@ -58,5 +59,6 @@ My LeetCode problem-solving journey in Java. Organized by topics with clean and 
 ## String
 |  |
 | ------- |
+| [1773-count-items-matching-a-rule](https://github.com/pritivanara/LeetCode/tree/master/1773-count-items-matching-a-rule) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/pritivanara/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 <!---LeetCode Topics End-->
