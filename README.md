@@ -8,6 +8,7 @@ My LeetCode problem-solving journey in Java. Organized by topics with clean and 
 | ------- |
 | [0001-two-sum](https://github.com/pritivanara/LeetCode/tree/master/0001-two-sum) |
 | [0832-flipping-an-image](https://github.com/pritivanara/LeetCode/tree/master/0832-flipping-an-image) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/pritivanara/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pritivanara/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/pritivanara/LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/pritivanara/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -48,6 +49,7 @@ My LeetCode problem-solving journey in Java. Organized by topics with clean and 
 ## Math
 |  |
 | ------- |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/pritivanara/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/pritivanara/LeetCode/tree/master/1512-number-of-good-pairs) |
 ## Counting
 |  |
