@@ -9,6 +9,7 @@ My LeetCode problem-solving journey in Java. Organized by topics with clean and 
 | [0001-two-sum](https://github.com/pritivanara/LeetCode/tree/master/0001-two-sum) |
 | [0054-spiral-matrix](https://github.com/pritivanara/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/pritivanara/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/pritivanara/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0832-flipping-an-image](https://github.com/pritivanara/LeetCode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/pritivanara/LeetCode/tree/master/0867-transpose-matrix) |
 | [0989-add-to-array-form-of-integer](https://github.com/pritivanara/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
@@ -89,4 +90,8 @@ My LeetCode problem-solving journey in Java. Organized by topics with clean and 
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/pritivanara/LeetCode/tree/master/0832-flipping-an-image) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/pritivanara/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
