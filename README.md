@@ -11,6 +11,7 @@ My LeetCode problem-solving journey in Java. Organized by topics with clean and 
 | [0059-spiral-matrix-ii](https://github.com/pritivanara/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pritivanara/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/pritivanara/LeetCode/tree/master/0283-move-zeroes) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/pritivanara/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0832-flipping-an-image](https://github.com/pritivanara/LeetCode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/pritivanara/LeetCode/tree/master/0867-transpose-matrix) |
 | [0989-add-to-array-form-of-integer](https://github.com/pritivanara/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
@@ -96,4 +97,8 @@ My LeetCode problem-solving journey in Java. Organized by topics with clean and 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pritivanara/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Binary Search
+|  |
+| ------- |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/pritivanara/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 <!---LeetCode Topics End-->
