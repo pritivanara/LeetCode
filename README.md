@@ -7,6 +7,7 @@ My LeetCode problem-solving journey in Java. Organized by topics with clean and 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pritivanara/LeetCode/tree/master/0001-two-sum) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/pritivanara/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0054-spiral-matrix](https://github.com/pritivanara/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/pritivanara/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pritivanara/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -100,5 +101,6 @@ My LeetCode problem-solving journey in Java. Organized by topics with clean and 
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/pritivanara/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/pritivanara/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 <!---LeetCode Topics End-->
