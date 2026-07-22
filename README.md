@@ -18,6 +18,7 @@ My LeetCode problem-solving journey in Java. Organized by topics with clean and 
 | [0852-peak-index-in-a-mountain-array](https://github.com/pritivanara/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/pritivanara/LeetCode/tree/master/0867-transpose-matrix) |
 | [0989-add-to-array-form-of-integer](https://github.com/pritivanara/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
+| [1095-find-in-mountain-array](https://github.com/pritivanara/LeetCode/tree/master/1095-find-in-mountain-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/pritivanara/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pritivanara/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/pritivanara/LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
@@ -107,4 +108,9 @@ My LeetCode problem-solving journey in Java. Organized by topics with clean and 
 | [0162-find-peak-element](https://github.com/pritivanara/LeetCode/tree/master/0162-find-peak-element) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/pritivanara/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/pritivanara/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1095-find-in-mountain-array](https://github.com/pritivanara/LeetCode/tree/master/1095-find-in-mountain-array) |
+## Interactive
+|  |
+| ------- |
+| [1095-find-in-mountain-array](https://github.com/pritivanara/LeetCode/tree/master/1095-find-in-mountain-array) |
 <!---LeetCode Topics End-->
