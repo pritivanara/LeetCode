@@ -14,6 +14,7 @@ My LeetCode problem-solving journey in Java. Organized by topics with clean and 
 | [0283-move-zeroes](https://github.com/pritivanara/LeetCode/tree/master/0283-move-zeroes) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/pritivanara/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0832-flipping-an-image](https://github.com/pritivanara/LeetCode/tree/master/0832-flipping-an-image) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/pritivanara/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/pritivanara/LeetCode/tree/master/0867-transpose-matrix) |
 | [0989-add-to-array-form-of-integer](https://github.com/pritivanara/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/pritivanara/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -103,4 +104,5 @@ My LeetCode problem-solving journey in Java. Organized by topics with clean and 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/pritivanara/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/pritivanara/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/pritivanara/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
